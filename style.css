@@ -1,0 +1,51 @@
+body{
+  background-color: black;
+  width: 100%;
+}
+header{
+  height: 282px;
+  width: auto;
+
+}
+section{
+ width: 100%;
+}
+article{
+  margin: 50%;
+}
+.art{
+  display: flex;
+}
+.strech{
+
+}
+h1{
+  text-align: center;
+  font-family:arial;
+  font-color: #577CC0;
+ }
+ h2{
+  co;or:white;
+  text-align: center;
+  font-family: arial;
+  color: white;
+ }
+.img{
+  border-radius: 50%;
+  border: 2px solid #577CC0;
+  margin: 0% 0% 0% 50%;
+ }
+ .shades{
+  border-radius: 50%;
+  border: 2px solid #577CC0;
+  margin: 0% 0% 0% 50%;
+ }
+p{
+  font-family: arial;
+  color: white;
+}
+div{
+  height: 200px;
+  width: 100%;
+
+}
